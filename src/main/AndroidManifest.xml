@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shehzad.finaltabchat" >
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/gglogo"
+        android:label="Guftugu"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SplashScreen"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Login"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name=".AddGroup" >
+        </activity>
+        <activity
+            android:name=".GroupChatView"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity android:name=".GroupInfo" >
+        </activity>
+        <activity android:name=".AddMember" >
+        </activity>
+        <activity android:name=".BlockedUsers" >
+        </activity>
+        <activity
+            android:name=".Personal_Info"
+            android:label="@string/title_activity_personal__info"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.shehzad.finaltabchat.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

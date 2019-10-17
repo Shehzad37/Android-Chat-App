@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-jaspi-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="123f52e4062e25e9571e25e910e7d3e2cc3a161c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-jaspi-9.2.19.v20160908_65fd93f333db03509d9000f65052efcfa9d4a3cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-proxy-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aac19c0f18794f59a0f11486b1d19aa9f0d138b1">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-proxy-9.2.19.v20160908_6826e502b1d3e0c4e86f1cc9a2a9a2116bb87e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\servlet-api-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3cd63d075497751784b2fa84be59432f4905bf7c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\servlet-api-3.1_ebc37faf5edb4b363fd638d9053e6b692dccfaab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-deploy-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5744707efd241eecda6730b01d0c4188998d8fc4">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-deploy-9.2.19.v20160908_c970cf71334702794d8477dd7bc82d9b2bd3b78b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-jaspi-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="123f52e4062e25e9571e25e910e7d3e2cc3a161c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-jaspi-9.2.19.v20160908_7f24023ccb80737cbbf05fd6b7888697d9ff81af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-jmx-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fd8e9174ec7a184321f30ad7373af7d8fcfae3a">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-jmx-9.2.19.v20160908_1cf2858d1451ffffdbbd1bf8b3962451dbfda15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_07d33ac74a856a91cffc1cce398cf50d260b1f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_6a450d9c3cdad95ebe54caa487cb25dcf8830ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-quickstart-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04e220d326db6c309a5f00d9f243deda5cc75dc7">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-quickstart-9.2.19.v20160908_ce25332fbf242cfa4a47cc6812919790ea1a4a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-servlet-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="16e2968b7bb971d138ca6afd6a0eccc550e36648">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-servlet-9.2.19.v20160908_f1925361eb97c490ff31e9da18e1003f4dd690c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-server-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="461fed2e597005e71f22a412cb71721cebc26bbb">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-server-9.2.19.v20160908_ac09235b92e6a75fb644b1152cf1b0270e5fab62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-alpn-server-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd5215f170b52c71919b9fba83f6143a999aca46">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-alpn-server-9.2.19.v20160908_fe193ca900a3f0d7bc1675e73e6d7984e452e5a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\websocket-api-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="555fba0ff452195210c451a187fb61926d246a1a">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\websocket-api-9.2.19.v20160908_b3d36f2b618947375b73cffeb26f05681385d884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_ad60c601858ab4a268b709e2755ccc97000b751a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_84926ee78741ece68b8dd9c4b68c6d53eb821b56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-annotations-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3af89f9d3e25075e121047f8722d51732f332e6">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-annotations-9.2.19.v20160908_5b3ad016f138ca02d30218ed92f866b5f1a3098f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-http-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ebd3ae519c8ad9f15367fa45f09f09e186c6f5bb">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-http-9.2.19.v20160908_c019f91dc6c090523bbd225d2f486e79451edeb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\websocket-servlet-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4850a2815e08bcd8f32ad54d32c5a82068500554">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\websocket-servlet-9.2.19.v20160908_82a78477c22b39c4b122e40efc3bbdb9484813ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-io-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c48225a47e7aec7ec0702b4e9b291775d3eabfd3">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-io-9.2.19.v20160908_4b3a52d49367baa8e1f31daedd50a3b886b28135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-deploy-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5744707efd241eecda6730b01d0c4188998d8fc4">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-deploy-9.2.19.v20160908_2b54ad736492c55efee89e371917c6d1b5f5ecb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\javax-websocket-client-impl-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="544957f8bf25af9bcec4de61f35c4b5da26700df">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\javax-websocket-client-impl-9.2.19.v20160908_9f74310fedc110aeca1739f7a9f618f120a5fcac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_9a17267da1bd36affcb3fbf8af3e512e485313e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-cdi-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03817cebc5ac3a9be5a3ca82fde782cad65d6e64">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-cdi-9.2.19.v20160908_9d6eff0274e79e8a1627b390f92511477e0d6e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-jndi-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="519420d30efdd48a5edf24bdae041c9200fcda0d">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-jndi-9.2.19.v20160908_8976dafca5112c3ca9dd26980c60d4ff50090e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-alpn-client-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="12786ccfe8f9688aac12124fb695397c914168b2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-alpn-client-9.2.19.v20160908_a8c4d5f200978cca0b7012ae4876481522152d4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-server-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="461fed2e597005e71f22a412cb71721cebc26bbb">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-server-9.2.19.v20160908_9f79e9ec2c1c47fdf9fe24bc2f6fe256779cdbce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-security-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="989498b69bbd48fabd6d0bd909ea2ac9ab2638ea">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-security-9.2.19.v20160908_6b325f2b5007618ef1820c39295e3d2808b220d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-proxy-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aac19c0f18794f59a0f11486b1d19aa9f0d138b1">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-proxy-9.2.19.v20160908_d812f7bba20b6f467b86066aaf9c0c0b110fe84d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-jmx-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4fd8e9174ec7a184321f30ad7373af7d8fcfae3a">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-jmx-9.2.19.v20160908_9ea2d5e56ed51e5bbcaeffb00143681aeebd8a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-annotations-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3af89f9d3e25075e121047f8722d51732f332e6">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-annotations-9.2.19.v20160908_1e473872d1b7cb0326d0419197a2e0fa17f59ef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\websocket-servlet-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4850a2815e08bcd8f32ad54d32c5a82068500554">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\websocket-servlet-9.2.19.v20160908_235c2f5a779ab677566d4fb49efdebdfd98065c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\javax.websocket-api-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc843b649d4a1dcb0497669d262befa3918c7ba8">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\javax.websocket-api-1.0_a056f266eeaa1ab3a83773ba468557c97066e286.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\websocket-client-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2c04a2fc7881ffa63795aa9b65df0b1f76a9384a">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\websocket-client-9.2.19.v20160908_c8c47679abdc7181df729555d56abe4773f1269d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-continuation-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c62791dbb1581e743b19b6321eec17969c89192b">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-continuation-9.2.19.v20160908_fe265a3b2e33985e4dc5c3e8d5622e0eb3776711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_5956f8e4f77688c6c23981ff351898b682564be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-http-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ebd3ae519c8ad9f15367fa45f09f09e186c6f5bb">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-http-9.2.19.v20160908_0b7e124c20b8cad98ef5bfb1b02e39aa0f7e7ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\javax-websocket-server-impl-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ee2dcefe27cd425bad002aee4c37bf72a65e688">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\javax-websocket-server-impl-9.2.19.v20160908_fd39f7567586eb420216c4f6d4a676b3f55a79e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\junit-4.12_90d75c3bc7109f5fecb59ca57b0d084d9bc84f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\junit-4.12_90d75c3bc7109f5fecb59ca57b0d084d9bc84f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\javax-websocket-client-impl-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="544957f8bf25af9bcec4de61f35c4b5da26700df">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\javax-websocket-client-impl-9.2.19.v20160908_7daed0b691bcf552ba216365ddca1389da950797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_ea77edcac8d7cde6407c6ce9a447f0d975df7ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-jndi-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="519420d30efdd48a5edf24bdae041c9200fcda0d">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-jndi-9.2.19.v20160908_e0c211e1da426eb33c6df7b214aa50b59384fea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_57ceff51b5cd596a94f896467c13c2467b7cfae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\javax-websocket-server-impl-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ee2dcefe27cd425bad002aee4c37bf72a65e688">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\javax-websocket-server-impl-9.2.19.v20160908_06c5284a92f302cda9053607aa64604d420fe9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_4fb366b37a69aef5f5f2fc70192fb262edcb39a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_18cf6576cff71dd1477c5daa92c7fbfbfccd47f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\javax.websocket-api-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fc843b649d4a1dcb0497669d262befa3918c7ba8">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\javax.websocket-api-1.0_f525c6fc1ca69b704295e85e920fe3889fa1feb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\websocket-server-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92003301040475ad0dba5cc44c00a835036bbcbb">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\websocket-server-9.2.19.v20160908_50418e16342a423665852f03f2ee5898d78df1b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d1bc604d5cbcdb95ad40d5e7c75a31cf3b36c5cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-quickstart-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04e220d326db6c309a5f00d9f243deda5cc75dc7">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-quickstart-9.2.19.v20160908_9e43275a1c0c4637ef3238bf38cf16f2b98bf6e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-util-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2815b8e83696724b809964181b71abdb3c2b2e1">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-util-9.2.19.v20160908_0cc80394998c3181f109fd504c0901ba5d4fcbd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-security-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="989498b69bbd48fabd6d0bd909ea2ac9ab2638ea">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-security-9.2.19.v20160908_6cc163ccf67a5a6e0a99b59895018c38aa3ca560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-cdi-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03817cebc5ac3a9be5a3ca82fde782cad65d6e64">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-cdi-9.2.19.v20160908_699de33a63858d03e4831b5d1a2acabf75e826f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-xml-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d33c3086afa879f2c00eb84e97328065618379b">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-xml-9.2.19.v20160908_c8725a9162d4a62de08d4bcacb632e41a2ed981a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\websocket-api-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="555fba0ff452195210c451a187fb61926d246a1a">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\websocket-api-9.2.19.v20160908_c13ab5c1f656e423647826329e331bcf208a8e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\websocket-client-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2c04a2fc7881ffa63795aa9b65df0b1f76a9384a">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\websocket-client-9.2.19.v20160908_118f45512c611e296432254e9efe84cb6f59f77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_1af37636dd116cc927dbf115edc7c1fb8fad81bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_18cf6576cff71dd1477c5daa92c7fbfbfccd47f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_8d2bfc6a09d47eb79bcfca1e98243e40916963ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-servlets-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26a5ed023cdd003cf4762f6e1ecd57fd03ef5846">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-servlets-9.2.19.v20160908_ba536a8fd6cc64a336e81df81c2268aa5dfc2d52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-plus-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="849f8dcb9ae9fa5f5abc854a2062dfb820a2e52e">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-plus-9.2.19.v20160908_5e32bdf9c5b3b2019eeea7333b4572a35f0fc3fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_3172db0e8a66c50b96d2e0dde3c36ac8880d20a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-plus-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="849f8dcb9ae9fa5f5abc854a2062dfb820a2e52e">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-plus-9.2.19.v20160908_49edc9a8b958a4c625fbc2b41243303dba8635fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-servlet-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="16e2968b7bb971d138ca6afd6a0eccc550e36648">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-servlet-9.2.19.v20160908_3195064e71304ae6e665142ad80c10bff70e2541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\websocket-server-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92003301040475ad0dba5cc44c00a835036bbcbb">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\websocket-server-9.2.19.v20160908_ae61a28f7c0803eea3b79a1a0aa74171ca62e115.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-io-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c48225a47e7aec7ec0702b4e9b291775d3eabfd3">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-io-9.2.19.v20160908_e992d18222b71a7f0ee85d4ffb4bd2d9f3390168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_124ca0675013e90a8572e2a6312bd45cb914a5f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-alpn-server-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd5215f170b52c71919b9fba83f6143a999aca46">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-alpn-server-9.2.19.v20160908_7b6b1a928fcd6ad8618ea34a1b330384aa50ff93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_7168ef421838e7dafbc82720bd3e0963e0b41aaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-client-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d7a90659f8a9c4d2d28d2e528f623321c698f9c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-client-9.2.19.v20160908_c88c24a78f05224fe581f0953a76e7e34f870b85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-xml-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d33c3086afa879f2c00eb84e97328065618379b">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-xml-9.2.19.v20160908_27a4fc794982c72e9e14de152ae1ede7b9b27ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_4a9bc40193e63df0e471c68c149eebdfe30fb7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-servlets-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26a5ed023cdd003cf4762f6e1ecd57fd03ef5846">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-servlets-9.2.19.v20160908_07892119525cd23589cbca6346c232ac7382c89e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-continuation-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c62791dbb1581e743b19b6321eec17969c89192b">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-continuation-9.2.19.v20160908_d6500b1645e4a98e86a22395ab4e3890860e890d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\websocket-common-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3d6976d291b33e388ed65399ffa30330c2ba605">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\websocket-common-9.2.19.v20160908_16e585fa9b501df44d8a90948cd559ae29fd32f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-alpn-client-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="12786ccfe8f9688aac12124fb695397c914168b2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-alpn-client-9.2.19.v20160908_76aec34b8d6884fcc7283cf661d9426426e84102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_9c14d067c69965279224d5392886e6216d52fd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-spring-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4dda86f5920e2a5683ab1618512d7a698c674e2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-spring-9.2.19.v20160908_24fb2ee61e340186d8c8651756dd846f78a3b4df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_9c14d067c69965279224d5392886e6216d52fd51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_77d0f1324ef2132f1ffaddfb7f866f9ae51fc207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_4a9bc40193e63df0e471c68c149eebdfe30fb7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.pes.materialcolorpicker\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aab7640038c6153ac02d112584b8852a01794262">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\com.pes.materialcolorpicker-library-1.0.2_5a5be804a2c6b7286f6ecb6cd9550da4a3727906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-jaas-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7860cf7ce6dba89b86806c3e0e259aacae96de5c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-jaas-9.2.19.v20160908_89c6ab1a40f7b12fd969de20550deb5d7da0c72b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-rewrite-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e4052cffd0c57a4972f70b7eb8f1d2ca3624af">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-rewrite-9.2.19.v20160908_1838790a35a644b74f68bbb0130f2b34e1acb562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-jaas-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7860cf7ce6dba89b86806c3e0e259aacae96de5c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-jaas-9.2.19.v20160908_1d64c118d14794e67ad12ddef4b22f5046b685b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-spring-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4dda86f5920e2a5683ab1618512d7a698c674e2">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-spring-9.2.19.v20160908_18acd54379a5605287fb395730041aab5ec5d11b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\servlet-api-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3cd63d075497751784b2fa84be59432f4905bf7c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\servlet-api-3.1_db3b956438efc6e092a89fca30c5ce51105bbe7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-rewrite-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e4052cffd0c57a4972f70b7eb8f1d2ca3624af">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-rewrite-9.2.19.v20160908_bdeab02e5b09b431f72c07e4434d31df65b8b46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-client-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7d7a90659f8a9c4d2d28d2e528f623321c698f9c">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-client-9.2.19.v20160908_51225164d4754dfa22dbe0985aa8e16de1c73929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\libs\jetty-webapp-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec12b0e83f78b4c15b2f73525e6dd0df5b408b4f">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChatttt\app\build\intermediates\pre-dexed\debug\jetty-webapp-9.2.19.v20160908_043aec693ae0f338a36bdcbf5b3c5f912cf46153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_00456588cac602292f7eeaa347dcb48fbe3d96fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-util-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2815b8e83696724b809964181b71abdb3c2b2e1">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-util-9.2.19.v20160908_a5c2a6853d311ce6dc014f13a4e971d3411a52c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\websocket-common-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a3d6976d291b33e388ed65399ffa30330c2ba605">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\websocket-common-9.2.19.v20160908_8b216db846b2d57ed9a6105f5c41aa0d04d8f26f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\libs\jetty-webapp-9.2.19.v20160908.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec12b0e83f78b4c15b2f73525e6dd0df5b408b4f">
+        <dex dex="C:\Users\Shehzad\Desktop\dataDeski\FinalTabChattttWithJAVA\app\build\intermediates\pre-dexed\debug\jetty-webapp-9.2.19.v20160908_5e6f2be6d1387b3033f05dbe7c44e11041e454e5.jar" />
+    </item>
+
+</items>

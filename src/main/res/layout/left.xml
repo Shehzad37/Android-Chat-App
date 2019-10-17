@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<android.support.v7.widget.AppCompatImageView-->
+        <!--android:layout_width="39dp"-->
+        <!--android:layout_height="39dp"-->
+        <!--android:id="@+id/img"-->
+        <!--android:elevation="15dp"-->
+        <!--android:background="@drawable/ic_launcher"-->
+        <!--android:padding="10dp"-->
+        <!--android:layout_marginTop="3dp"-->
+        <!--android:layout_marginLeft="3dp"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true" />-->
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/img"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        app:civ_border_width="2dp"
+        android:background="@drawable/ic_launcher"
+        app:civ_border_color="#075e55"
+        android:layout_marginRight="3dp"
+        android:scaleType="centerCrop"
+        android:clickable="true"
+        android:elevation="15dp"
+        android:paddingTop="5dp"
+       />
+
+<android.support.v7.widget.AppCompatTextView
+    android:id="@+id/msgr"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="left"
+    android:background="@drawable/recieve"
+    android:paddingBottom="5dp"
+    android:paddingLeft="22dp"
+    android:layout_marginBottom="3dp"
+    android:layout_marginTop="22dp"
+    android:paddingRight="10dp"
+    android:paddingTop="5dp"
+    android:text="Sampleleft"
+    android:textColor="#000"
+    android:clickable="true"
+    android:layout_toRightOf="@+id/img"
+    android:layout_toEndOf="@+id/img" />
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/time"
+        android:elevation="10dp"
+        android:text="yyyy/MM/dd_HH:mm:ss"
+        android:layout_gravity="left"
+        android:textSize="12dp"
+        android:layout_below="@+id/msgr"
+        android:layout_toRightOf="@+id/img"
+        android:layout_toEndOf="@+id/img"
+        android:layout_marginLeft="20dp"
+      />
+
+
+</RelativeLayout>

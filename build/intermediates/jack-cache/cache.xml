@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Shehzad\Desktop\FinalTabChat\app\libs\jetty-deploy-9.3.12.v20160915.jar"
+        revision="24.0.1"
+        sha1="4566e79349b06b7f3ea7fc7efe37dcfe6e64f149">
+        <dex dex="C:\Users\Shehzad\Desktop\FinalTabChat\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jetty-deploy-9.3.12.v20160915-10262ff0e22e8c1665573a13d979e93ac2b2d744.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shehzad\Desktop\FinalTabChat\app\libs\jetty-xml-9.3.12.v20160915.jar"
+        revision="24.0.1"
+        sha1="1836b6183acdae53678f483ff2fb4d339f73dc76">
+        <dex dex="C:\Users\Shehzad\Desktop\FinalTabChat\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jetty-xml-9.3.12.v20160915-e9fd83b53dbd097861616f1adcd552ec819c8750.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shehzad\Desktop\FinalTabChat\app\libs\jetty-rewrite-9.3.12.v20160915.jar"
+        revision="24.0.1"
+        sha1="bc3923c2c4a7dbd09f986b8688330be2fca16bea">
+        <dex dex="C:\Users\Shehzad\Desktop\FinalTabChat\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jetty-rewrite-9.3.12.v20160915-d602bb967c1c72c3b6337160d6edc161e513b75a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shehzad\Desktop\FinalTabChat\app\libs\jetty-servlets-9.3.12.v20160915.jar"
+        revision="24.0.1"
+        sha1="d11c4c07ad56026ff499afb0ed93ab250002faa6">
+        <dex dex="C:\Users\Shehzad\Desktop\FinalTabChat\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jetty-servlets-9.3.12.v20160915-399f0def51e24ef7561024f5655e99f61b6d5420.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shehzad\Desktop\FinalTabChat\app\libs\javax-websocket-server-impl-9.3.12.v20160915.jar"
+        revision="24.0.1"
+        sha1="4eb0deea267e89de300b7506dedfa271e717bbb6">
+        <dex dex="C:\Users\Shehzad\Desktop\FinalTabChat\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax-websocket-server-impl-9.3.12.v20160915-ad0c56578c4958229db1db82f8e294e5f1a4dc44.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shehzad\Desktop\FinalTabChat\app\libs\jetty-jndi-9.3.12.v20160915.jar"
+        revision="24.0.1"
+        sha1="7e3f48653703122c49ac1ce8092c21eca1929c3c">
+        <dex dex="C:\Users\Shehzad\Desktop\FinalTabChat\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jetty-jndi-9.3.12.v20160915-904d24a7e08c5c672fe776507b34c3ed423ff94c.jar" />
+    </item>
+
+</items>

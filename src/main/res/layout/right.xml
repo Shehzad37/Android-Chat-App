@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    >
+
+    <!--
+    android:layout_alignBottom="@+id/img"
+        android:layout_toLeftOf="@+id/img"
+        android:layout_toStartOf="@+id/img"
+-->
+  <!--  <android.support.v7.widget.AppCompatImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/img"
+        android:padding="10dp"
+        android:layout_marginRight="3dp"
+        android:scaleType="centerCrop"
+        android:clickable="true"
+        android:elevation="15dp"
+        android:paddingRight="22dp"
+        android:paddingTop="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_gravity="right"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" /-->
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/img"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        app:civ_border_width="2dp"
+        app:civ_border_color="#075e55"
+        android:layout_marginRight="3dp"
+        android:src="@drawable/ic_launcher"
+        android:scaleType="centerCrop"
+        android:clickable="true"
+        android:elevation="15dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:layout_marginTop="3dp"
+        android:layout_gravity="right"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/msgr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:background="@drawable/send"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="22dp"
+        android:paddingTop="5dp"
+        android:text="Sample"
+        android:textColor="#000"
+        android:clickable="true"
+        android:layout_toLeftOf="@+id/img"
+        android:layout_marginTop="25dp"
+         />
+
+    <android.support.v7.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/time"
+        android:text="yyyy/MM/dd_HH:mm:ss"
+        android:layout_gravity="right"
+        android:textSize="12dp"
+        android:layout_marginRight="17dp"
+        android:elevation="10dp"
+        android:layout_below="@+id/msgr"
+        android:layout_toLeftOf="@+id/img"
+        android:layout_toStartOf="@+id/img" />
+
+</RelativeLayout>
