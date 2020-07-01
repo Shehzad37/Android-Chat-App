@@ -4,13 +4,19 @@ send text messages within a specific network on different platforms(Web, Desktop
 customization of UI options.
 
 # Features
-• The app could handle different file formats.
-• Enabled real time UI customization.
-• Real time communication using socket programming and secured database.
-• Supported chat between different platforms.
+* The app could handle different file formats.
+* Enabled real time UI customization.
+* Real time communication using socket programming and secured database.
+* Supported chat between different platforms.
+
+# Usage
+* Open Project in Andriod Studio
+* or
+* Run build.gradle
 
 # Requirements
-• Android Lollipop(5.0) or above
+* Android Lollipop(5.0) or above
+* Android Studio
 
 
 
